@@ -1,0 +1,21 @@
+{
+  "name": "circularcahrity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5",
+    "mysql2": "^3.2.4",
+    "nodemon": "^2.0.22",
+    "ussd-builder": "^1.2.5"
+  }
+}
