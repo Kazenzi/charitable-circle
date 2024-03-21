@@ -36,8 +36,7 @@ let menu = new UssdMenu();
 let dataToSave = {}
 
 const atCredentials = {
-    apiKey  : 'dcfc1a7d22cc9d03487f68ce945fd4830d73b139b942e7fc6eca4fb2688b2f7c',
-    username: 'mind_benders'
+    
 }
 
 const AfricasTalking = require('africastalking')(atCredentials)
